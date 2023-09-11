@@ -106,10 +106,12 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+
 <img width="416" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/5a06926a-d2ea-47ac-9c72-81fbbb6e82ba">
 
 
 select any username in the first column of the above file and check the same
+
 <img width="371" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/23c38c58-6deb-42bd-9994-08a80bcb5b51">
 
 
@@ -120,7 +122,8 @@ and issue appropriate commands
 
   
  ##Output
-  <img width="369" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/f4dc26e9-3a89-483e-9fee-1e78e6579cb5">
+ 
+<img width="369" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/f4dc26e9-3a89-483e-9fee-1e78e6579cb5">
 
   
 
@@ -130,6 +133,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+
 <img width="416" alt="image" src="https://github.com/AsinVardhini/Enumeration/assets/119417735/657162b7-9229-44f0-942a-dc2e1dd8ea81">
 
 
